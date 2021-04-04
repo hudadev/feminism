@@ -2,6 +2,7 @@
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
+  font-family: 'Vollkorn',sans-serif;
   
 }
 
@@ -120,3 +121,32 @@ nav{
 body {
   background: #CFC7B9;
 }
+
+.title{
+  font-family: sans-serif;
+  
+  margin-left: 10%;
+  margin-top: 15%;
+  font-size: 90px;
+  -webkit-text-stroke: 2px #384231;
+  color: rgba(0, 0, 0, 0);
+}
+
+.intro-para{
+  padding-left: 10%;
+  padding-right:40%; 
+}
+
+
+button{
+  border-color: #384231;
+  padding: 10px;
+  margin-left: 10%;
+  margin-top: 2%;
+  border-radius: 20px;
+  color: #384231;
+  font-family:  sans-serif;
+  font-weight: 600;
+  background-color: rgba(0, 0, 0, 0);
+}
+
