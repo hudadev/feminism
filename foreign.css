@@ -126,13 +126,13 @@ body {
 padding-right:; 
 }
 
-#csvData {
+.csvData {
   
   height: 200px;
   float: left;
   width: 45%;
 }
-#csvData2 {
+.csvData2 {
   
   height: 400px;
   float: right;
