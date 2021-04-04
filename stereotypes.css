@@ -118,6 +118,23 @@ nav{
 }
 
 body {
-  background: #CFC7B9;
+  background-color: #CFC7B9;
 }
 
+h2 {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-right: 70px;
+  margin-left: 70px;
+  color: #424E39;
+  font-size: 30px;
+}
+
+p {
+  margin-top: 1px;
+  margin-bottom: 30px;
+  margin-right: 70px;
+  margin-left: 70px;
+  color: #424E39;
+  font-size: 20px;
+}
